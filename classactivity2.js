@@ -1,0 +1,10 @@
+const msg="   Hello, World!    ";
+let trimmedmsg=msg.trim()
+console.log(trimmedmsg)
+console.log(msg.startsWith("Hello"))
+console.log(msg.endsWith("World"))
+console.log(msg.toLowerCase())
+console.log(msg.indexOf("World"))
+console.log(msg.replace("World","Nigeria"))
+console.log(msg.replaceAll("L","1"))
+console.log(msg.slice(3,8))
