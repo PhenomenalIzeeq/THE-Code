@@ -48,7 +48,7 @@ let total=cartPrice.reduce((acc,price)=>{
 },0)
 console.log(total)
 
-//.push .pop .shift .unshift
+//.push .pop .shift .unshift    used to add and remove elements from the back and front of a given array 
 let colours=["red", "blue", "green"]
 colours.push("yellow")
 
