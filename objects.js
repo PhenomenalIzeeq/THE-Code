@@ -43,4 +43,4 @@ for(let key in user){
     console.log("this is a value "+user[key]) //for returning values
 }
 
-//for of
+
